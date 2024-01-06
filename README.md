@@ -4,6 +4,8 @@ Virtual infrastructure management control panel and resource management utility 
 was developing a module to help someone that purchases compute (a virtual machine) to see an overview of their compute resources and monitor by accessing your <ip_address>:9595
 The full production version comes preinstalled on virtual machines obtained via Suburban Cloud.
 
+![Console Screenshot](https://i.ibb.co/fD6kJWW/console-screenshot.png)
+
 > This is a limited open-sourced version. Things such as power management/action, software installation and killing processes is not included.
 
 ## Features
