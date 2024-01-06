@@ -1,0 +1,16 @@
+# Exclude common Go files and directories
+/.git
+/bin
+/vendor
+
+# Exclude build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Exclude system files
+Thumbs.db
+.DS_Store
+
