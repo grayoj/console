@@ -36,7 +36,7 @@ With Docker
 
 - Clone the repository.
 - To build the image, run: `docker build -t console .`
-- To run the built image as a container `docker run -p 9595:9595`
+- To run the built image as a container `docker run -p 9595:9595 console`
 - Access on port :9595
 
 > This version works fine on Mac and most Linux systems. Though some linux specific features for both the console and client were excluded.
