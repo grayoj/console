@@ -35,4 +35,4 @@ COPY --from=builder-go /app/client/dist ./client/dist
 
 EXPOSE 9595
 
-CMD ["./client"]
+CMD ["./console"]
